@@ -1,0 +1,13 @@
+export { default as LoginScreen } from './auth/LoginScreen';
+export { default as RegisterScreen } from './auth/RegisterScreen';
+export { default as ForgotPasswordScreen } from './auth/ForgotPasswordScreen';
+export { default as HomeScreen } from './home/HomeScreen';
+export { default as CoursesScreen } from './courses/CoursesScreen';
+export { default as CourseDetailScreen } from './courses/CourseDetailScreen';
+export { default as AssignmentsScreen } from './assignments/AssignmentsScreen';
+export { default as AssignmentDetailScreen } from './assignments/AssignmentDetailScreen';
+export { default as GradesScreen } from './grades/GradesScreen';
+export { default as AttendanceScreen } from './attendance/AttendanceScreen';
+export { default as NotificationsScreen } from './notifications/NotificationsScreen';
+export { default as ProfileScreen } from './profile/ProfileScreen';
+export { default as SettingsScreen } from './settings/SettingsScreen';
